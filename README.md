@@ -17,4 +17,4 @@
    ![로봇청소기](https://user-images.githubusercontent.com/71927210/129308326-0796ec0c-a1f2-4e9d-b918-5d1ffb863a99.png)
 
 ### 이해당사자 
-
+![이해당사자](https://user-images.githubusercontent.com/71927210/129308460-03419d48-8b50-436a-b355-82e385df9bb1.png)
