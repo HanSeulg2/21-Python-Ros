@@ -21,7 +21,10 @@
  
 ![로봇청소기2](https://user-images.githubusercontent.com/71927210/129312620-33bbf6ec-0700-4544-8b07-ab5ef068c88d.png)
 ![로봇청소기3](https://user-images.githubusercontent.com/71927210/129312696-1ba93533-3181-468a-8d92-429029467d50.png)
+ 
+![로봇청소기5](https://user-images.githubusercontent.com/71927210/129312884-8ddf0dca-ccde-4181-bab7-e73666c43912.png)
 ![로봇청소기4](https://user-images.githubusercontent.com/71927210/129312716-1c421595-ba59-48c8-a193-2e1a925ef5b5.png)
+![로봇청소기6](https://user-images.githubusercontent.com/71927210/129312876-198e161c-770e-4315-96f5-d44cad94715b.png)
 ### 요구사항
 - 미로찾기
    ![미로찾기](https://user-images.githubusercontent.com/71927210/129307847-5ec0662e-2641-4c4f-8d6f-d9b0ba2865c1.png)
